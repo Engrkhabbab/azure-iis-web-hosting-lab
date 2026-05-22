@@ -30,7 +30,17 @@ Hands-on Microsoft Azure lab focused on deploying and managing a Windows Server 
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Azure VM Overview
+![Azure VM](azure-vm-overview.png)
+
+### IIS Configuration
+![IIS](iis-sites.png)
+
+### NSG Rules
+![NSG](nsg-rules.png)
+
+### Website Running
+![Website](website-running.png)
 
 ---
 
